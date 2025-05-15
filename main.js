@@ -50,7 +50,7 @@ function onAppReady(app) {
     );
   }
   if (!app.songUrl) {
-    player.createFromSongUrl("http://www.youtube.com/watch?v=ygY2qObZv24");
+    player.createFromSongUrl("https://piapro.jp/t/ULcJ/20250205120202");
   }
 }
 
